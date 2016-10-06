@@ -88,7 +88,7 @@ GEM
     mini_portile2 (2.0.0)
     minitest (5.8.3)
     multi_json (1.11.2)
-    nokogiri (1.6.7)
+    nokogiri (1.6.7.1)
       mini_portile2 (~> 2.0.0.rc2)
     orm_adapter (0.5.0)
     rack (1.6.4)
@@ -179,6 +179,7 @@ DEPENDENCIES
   devise (~> 3.5, >= 3.5.3)
   jbuilder (~> 2.0)
   jquery-rails
+  nokogiri (~> 1.6, >= 1.6.7.1)
   rails (= 4.2.4)
   sass-rails (~> 5.0)
   sdoc (~> 0.4.0)
